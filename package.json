@@ -28,11 +28,13 @@
   "scripts": {
     "test": "grunt test"
   },
+  "dependencies": {
+    "blueprints": "~0.1.1"
+  },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
     "grunt-contrib-clean": "~0.4.0",
-    "grunt": "~0.4.1",
-    "blueprints": "~0.1.1"
+    "grunt": "~0.4.1"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
