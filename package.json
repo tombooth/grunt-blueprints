@@ -1,7 +1,7 @@
 {
   "name": "grunt-blueprints",
   "description": "Grunt plugin for the blueprints templating library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/tombooth/grunt-blueprints",
   "author": {
     "name": "Tom Booth",
