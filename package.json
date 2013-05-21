@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "blueprints": "~0.1.1"
+    "blueprints": "~0.1.2"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
